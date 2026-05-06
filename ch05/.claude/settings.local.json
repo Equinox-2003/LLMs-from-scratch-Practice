@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/gitRepo/LLMs-from-scratch-Practice/**)",
+      "PowerShell(python \"D:\\\\gitRepo\\\\LLMs-from-scratch-Practice\\\\ch05\\\\gpt_download.py\")"
+    ]
+  }
+}
